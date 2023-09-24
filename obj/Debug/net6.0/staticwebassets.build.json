@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "35X0hWvkIp5PCjzSgnrJYeq5jGE4rgzCQt7m3bAe5e8=",
+  "Source": "Net_Mongo",
+  "BasePath": "_content/Net_Mongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
